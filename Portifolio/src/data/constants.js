@@ -62,6 +62,10 @@ export const skills = [
                 name: 'SQLite',
                 image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg',
             },
+            {
+                name: 'MongoDB',
+                image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg',
+            },
         ],
     },
 
